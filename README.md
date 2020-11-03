@@ -16,7 +16,7 @@ Clone da interface do Pinterest para fins acadêmicos.
 
 ## :arrow_down: Instalação
 
-- `git https://github.com/Rogerluiz0/clone-pinterest.git`;
+- `git https://github.com/roger3g/clone-pinterest.git`;
 - `cd clone-pinterest`;
 - `npm install`;
 - `npm start`.
